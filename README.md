@@ -1,5 +1,7 @@
 # Native-vs-Cross-Platform
 
+![swift logo](../images/swift.png)
+
 It's extremely hard to elaborate on why cross-platform is great or terrible without hand-waving and qualitative / anecdotal takes. "AirBnB backed out of React Native! Walmart uses it! Write once use everywhere!"
 
 With multiple cross-platform technologies available, how do we decide which stack is most appropriate for our product?
