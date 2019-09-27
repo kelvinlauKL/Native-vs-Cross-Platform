@@ -10,6 +10,9 @@ This document tries to make an objective comparison between native and cross-pla
 3. 
 
 Appendix A: React Native apps
+
 Appendix B: Flutter apps
+
 Appendix C: Cordova apps
+
 Appendix D: Xamarin apps
