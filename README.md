@@ -1,18 +1,16 @@
 # Native-vs-Cross-Platform
 
-With multiple cross-platform technologies available, how do we decide which stack is most appropriate for our product? I don't know, so hopefully there are more experienced people who can contribute to this document.
+It's extremely hard to elaborate on why cross-platform is great or terrible without hand-waving and qualitative / anecdotal takes. "AirBnB backed out of React Native! Walmart uses it! Write once use everywhere!"
 
-This document tries to make an objective comparison between native and cross-platform technologies. 
+With multiple cross-platform technologies available, how do we decide which stack is most appropriate for our product?
+
+This document tries to make an objective comparison between native and cross-platform technologies, supplementing anecdotal experiences with quantitative measurements from the community.
 
 ## Table of Contents
-1. 
+1. Native Technologies
 2.
 3. 
 
-Appendix A: React Native apps
+## Native Technologies
 
-Appendix B: Flutter apps
 
-Appendix C: Cordova apps
-
-Appendix D: Xamarin apps
