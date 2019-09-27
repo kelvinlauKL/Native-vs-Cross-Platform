@@ -1,6 +1,6 @@
 # Native-vs-Cross-Platform
 
-![swift logo](https://github.com/kelvinlauKL/Native-vs-Cross-Platform/blob/master/images/swift.png | width=100)
+![swift logo](https://github.com/kelvinlauKL/Native-vs-Cross-Platform/blob/master/images/swift.png)
 
 It's extremely hard to elaborate on why cross-platform is great or terrible without hand-waving and qualitative / anecdotal takes. "AirBnB backed out of React Native! Walmart uses it! Write once use everywhere!"
 
