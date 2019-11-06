@@ -9,10 +9,25 @@ With multiple cross-platform technologies available, how do we decide which stac
 This document tries to make an objective comparison between native and cross-platform technologies, supplementing anecdotal experiences with quantitative measurements from the community.
 
 ## Table of Contents
-1. Native Technologies
-2.
-3. 
+1. Swift & iOS
+2. Kotlin & Android
+3. Dart & Flutter
+4. Javascript & React Native
+5. C# & Xamarin
+6. Javascript & Cordova
 
-## Native Technologies
+## Swift & iOS
+
+Introduced in 2014, Swift is the premiere language from Apple for iOS development. 
+
+## Kotlin & Android
+
+## Dart & Flutter
+
+## Javascript & React Native
+
+## C# & Xamarin
+
+## Javascript & Cordova
 
 
